@@ -1,0 +1,31 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.converter {
+    margin-bottom: 20px;
+}
+
+input, select, button {
+    font-size: 16px;
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
