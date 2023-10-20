@@ -26,7 +26,7 @@ This project is a simple yet powerful currency calculator that allows users to c
 1. Clone the repository and navigate to the project directory.
 
     ```bash
-    git clone [https://github.com/your-username/currency-calculator.git](https://github.com/Noor508/Currency_Calculator/tree/main)
+    git clone [https://github.com/Noor508/Currency_Calculator/tree/main]
     cd Currency_Calculator
     ``
 
