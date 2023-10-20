@@ -42,8 +42,4 @@ This project is a simple yet powerful currency calculator that allows users to c
 
 7. Review your conversion history in the sidebar.
 
-## Demo
-
-You can try out the live demo [here](https://your-demo-link.com).
-
 
